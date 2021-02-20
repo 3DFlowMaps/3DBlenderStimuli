@@ -1,1 +1,1 @@
-# BlenderStimuli
+# 3D Stimuli created with Blender
